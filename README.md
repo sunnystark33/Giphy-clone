@@ -10,4 +10,4 @@ A WebApp to search GIF images from giphy.com
 #
 
 
-![Alt Text](demo.gif )
+![Alt Text](demo.gif = 800x800)
