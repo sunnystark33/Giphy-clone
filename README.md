@@ -10,4 +10,4 @@ A WebApp to search GIF images from giphy.com
 #
 
 
-![demo](https://user-images.githubusercontent.com/83687589/177202357-39b16457-da5f-47f7-92b2-901b8fa886f1.gif  "width = 800px" "height = 800px")
+![Alt Text](/demo.gif = 800x800)
