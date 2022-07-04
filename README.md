@@ -8,6 +8,4 @@ A WebApp to search GIF images from giphy.com
 
 #Live Demo
 #
-
-
-![](demo.gif =800x800)
+![demo](https://user-images.githubusercontent.com/83687589/177203034-d467fa0b-78fd-468c-989e-a675edd03bb8.gif)
